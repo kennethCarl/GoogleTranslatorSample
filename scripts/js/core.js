@@ -1,0 +1,1 @@
+var timelessMedicalTranslatorApp = angular.module('TimelessMedicalTranslator', []);
